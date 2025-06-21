@@ -29,7 +29,7 @@ Aplicaciones Web <br>
 
 # Project Report Collaboration Insights
 
-Link del repositorio: https://github.com/Qahwa-Grupo3/Report.git
+Link del repositorio: https://github.com/Qahwa-Startup-Grupo-3/Report.git
 
 # Capítulo 1: Introducción
 
