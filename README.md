@@ -1687,8 +1687,8 @@ Durante este Sprint se realizó lo siguiente:
 Este Sprint representó un avance técnico clave. Se superaron retos como la instalación de herramientas, configuración del entorno en Rider, problemas con versiones de SDK, y conexión con bases de datos.
 
 La colaboración fue continua, con consultas y apoyo en la configuración de migraciones, diseño de entidades y controladores. Se avanzó con autonomía, y se documentó el proceso para futuras iteraciones.
-### 5.3 Validation Interviews
-##### 5.3.1. Diseño de Entrevistas
+## 5.3 Validation Interviews
+### 5.3.1. Diseño de Entrevistas
 ##### **Elementos de Validación**
 
 ###### **Landing Page y Aplicación Qahwa (Productores):**  
@@ -1826,11 +1826,11 @@ La colaboración fue continua, con consultas y apoyo en la configuración de mig
 * ¿Pudiste dejar tu calificación o comentario sobre el café adquirido?
 
 * ¿Qué sugerencias tendrías para mejorar esta funcionalidad?
-##### 5.3.2. Registro de Entrevistas
-##### 5.3.3. Evaluaciones según heurísticas.
-### 5.4. Video About-the-Product.
+#### 5.3.2. Registro de Entrevistas
+#### 5.3.3. Evaluaciones según heurísticas.
+## 5.4. Video About-the-Product.
 
-#### **Conclusiones**
+## **Conclusiones**
 
 ##### **Viabilidad del Proyecto**  
  El proyecto Qahwa demostró ser viable tanto técnica como comercialmente. Los resultados de las entrevistas y validaciones reflejan una necesidad real de digitalización dentro del ecosistema cafetalero peruano, especialmente en el segmento de pequeños productores, quienes enfrentan retos en gestión, trazabilidad y comercialización de su producto.
@@ -1847,7 +1847,7 @@ La colaboración fue continua, con consultas y apoyo en la configuración de mig
 ##### **Desempeño Competitivo**  
  El análisis competitivo mostró que Qahwa se diferencia por su enfoque accesible y adaptado al caficultor rural peruano. A diferencia de soluciones globales o empresariales como Agrovision o Digital Coffee Future, Qahwa se alinea mejor con las capacidades tecnológicas y las realidades del usuario local.
 
-#### **Recomendaciones**
+### **Recomendaciones**
 
 ##### **1\. Priorizar el Diseño Centrado en el Usuario**  
  La interfaz de la plataforma debe ser altamente intuitiva, visual y adaptable a usuarios con bajo nivel de alfabetización digital. Se recomienda emplear pictogramas, videos tutoriales y lenguaje sencillo en español o incluso en lenguas originarias.
@@ -1873,5 +1873,5 @@ La colaboración fue continua, con consultas y apoyo en la configuración de mig
  Ofrecer acompañamiento técnico desde el primer uso de la aplicación. Un centro de aprendizaje dentro de la app y un sistema de soporte técnico contribuirán a disminuir el abandono de usuarios por frustración tecnológica.
 
 ##### **6\. Retroalimentación Constante**  
- Establecer un sistema de feedback rápido desde la app para capturar sugerencias, errores o mejoras percibidas por los usuarios. Esta retroalimentación debe ser clave en futuras iteraciones del producto
+ Establecer un sistema de feedback rápido desde la app para capturar sugerencias, errores o mejoras percibidas por los usuarios. Esta retroalimentación debe ser clave en futuras iteraciones del producto.
 
