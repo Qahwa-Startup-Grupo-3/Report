@@ -37,8 +37,8 @@ Link del repositorio: https://github.com/Qahwa-Startup-Grupo-3/Report.git
 
 | **Criterio específico**                                               | **Acciones realizadas**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | **Conclusiones**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Comunica oralmente con efectividad a diferentes rangos de audiencia   | **Jhordi Luis Carranza Pérez – TB1:**<br>- Conduje entrevistas a usuarios para profundizar en sus problemas y expectativas.<br>- Presenté hallazgos y propuestas al equipo durante las reuniones sincrónicas.<br><br>**João Otavio de Carvalho Saito – TB1:**<br>- Expliqué a los stakeholders la estructura y flujos de la nueva landing page.<br>- Coordiné oralmente la distribución de tareas de diseño con el equipo.<br><br>**Esteban Valentino Alvarez Falen – TB1:**<br>- Lideré sesiones de entrevistas al usuario para validar supuestos de valor.<br>- Compartí públicamente los resultados durante la retrospectiva del sprint.<br><br>**Stephano Renan Valdivia Quispe – TB1:**<br>- Facilité entrevistas y defendí ajustes en la arquitectura ante el equipo.<br>- Resumí verbalmente los mapas de proceso delante de compañeros y docente. | - Las entrevistas reforzaron mi capacidad para adaptar el lenguaje técnico a usuarios no especialistas y sintetizar ideas en tiempo real.<br>- Aprendí a exponer conceptos visuales (mock-ups, wireframes) de forma clara y a recoger feedback inmediato para iterar rápido.<br>- Desarrollé confianza para dirigir conversaciones guiadas y obtener información crítica manteniendo la atención de la audiencia.<br>- Perfeccioné mi habilidad de traducir datos en narrativas comprensibles para audiencias mixtas (técnicas y de negocio). |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Jhordi Luis Carranza Pérez – TB1:**<br>- Elaboré diagramas de flujo y tablas de requerimientos.<br>- Documenté historias de usuario y apuntes de las entrevistas.<br><br>**João Otavio de Carvalho Saito – TB1:**<br>- Redacté el contenido textual de la landing page (mensajes de marketing y FAQ).<br>- Diseñé wireframes y mock-ups anotados en Figma.<br><br>**Esteban Valentino Alvarez Falen – TB1:**<br>- Construí tablas comparativas y mapas de empatía del usuario.<br>- Documenté los criterios de priorización para el backlog.<br><br>**Stephano Renan Valdivia Quispe – TB1:**<br>- Redacté la sección de documentación funcional y mapas de navegación.<br>- Consolidé notas de entrevistas en un reporte de hallazgos.                                                                                                                 | - La redacción estructurada me permitió transmitir información técnica de manera accesible al docente y al equipo de diseño.<br>- Aprendí a comunicar propuestas de valor y guías visuales que cualquier colaborador pueda entender sin asistencia oral.<br>- El uso de plantillas estandarizadas hizo más eficiente el intercambio de información y la toma de decisiones.<br>- Mejoré la coherencia y el nivel de detalle en documentos dirigidos tanto a profesores como a compañeros de distintas áreas.                                  |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia   | **Jhordi Luis Carranza Pérez – TB1:**<br>- Conduje entrevistas a usuarios para profundizar en sus problemas y expectativas.<br>- Presenté hallazgos y propuestas al equipo durante las reuniones sincrónicas.<br><br>**TP1:**<br>-Implementé el módulo de registro e inicio de sesión en el front-end y realicé entrevistas a productores. Tomé la iniciativa para recoger información clave del usuario y convertirla en funcionalidades reales para la plataforma.<br><br>**TB2:**<br>-Aporté liderazgo técnico en la planificación del Sprint 3 y la organización del backlog. Coordiné con el equipo en la definición de criterios de aceptación, promoviendo un entorno donde las decisiones técnicas se tomaron de forma colaborativa. Lideré la presentación de evidencias de desarrollo durante la revisión del sprint, asegurando claridad y validación conjunta.<br><br>**TF1:**<br>-Aporté en la consolidación del informe final, revisando la coherencia técnica de los artefactos y asegurando que reflejen el ciclo completo del desarrollo. Coordiné con el equipo para actualizar el Registro de Versiones y lideré la integración del Sprint 4 en la sección 5.2.4 del documento. También supervisé el despliegue final del producto, asegurando su funcionalidad y estabilidad. Mi liderazgo se enfocó en mantener la consistencia técnica y la calidad de los entregables.<br><br>**João Otavio de Carvalho Saito – TB1:**<br>- Expliqué a los stakeholders la estructura y flujos de la nueva landing page.<br>- Coordiné oralmente la distribución de tareas de diseño con el equipo.<br><br>**TP1:**<br>-Lideré el desarrollo del front-end completo para productores y compradores. Me encargué del despliegue en la nube, asumiendo el liderazgo técnico en la implementación de la aplicación <br><br>**TB2:**<br>-(RETIRO DE CURSO)<br><br>**TF1:**<br>-(RETIRO DE CURSO)<br><br>**Esteban Valentino Alvarez Falen – TB1:**<br>- Lideré sesiones de entrevistas al usuario para validar supuestos de valor.<br>- Compartí públicamente los resultados durante la retrospectiva del sprint.<br><br>**TP1:**<br>-Elaboré herramientas clave de análisis de usuario como el empathy map y escenario mapping. También colaboré en la implementación local del registro, sumando al trabajo técnico del <br><br>**TB2:**<br>-Documenté y compartí evidencias claras del avance técnico durante el sprint. Sistematizó el registro del despliegue, los servicios desarrollados y el trabajo ejecutado, fortaleciendo el liderazgo compartido al facilitar la revisión y retroalimentación por parte del equipo. Aporté a la reflexión grupal desde la revisión colaborativa. <br><br>**TF1:**<br>-Contribuí a la versión final del Project Report, integrando la sección Student Outcome y organizando los capítulos del ciclo de vida del proyecto. Gestioné la documentación del Sprint 4, asegurando claridad en los resultados obtenidos. Participé activamente en la preparación de la Keynote final, coordinando los mensajes clave que el equipo debía transmitir. Aporté desde un liderazgo comunicativo y organizacional para la entrega final. <br><br>**Stephano Renan Valdivia Quispe – TB1:**<br>- Facilité entrevistas y defendí ajustes en la arquitectura ante el equipo.<br>- Resumí verbalmente los mapas de proceso delante de compañeros y docente.<br><br>**TP1:**<br>-Realicé entrevistas al segundo segmento objetivo y colaboré en el desarrollo del registro en el front-end, participando activamente en tareas de validación e implementación.<br><br>**TB2:**<br>-Lideré el diseño y ejecución de entrevistas de validación, aportando hallazgos clave que guiaron decisiones conjuntas del equipo. Evalué la plataforma según principios heurísticos y compartí recomendaciones de mejora. Contribuí a la exposición final del producto, fortaleciendo el liderazgo en representación del equipo ante usuarios y docentes.<br><br>**TF1:**<br>-Encargado de recopilar y clasificar los archivos complementarios (videos, artefactos, documentación adicional) para el archivo .zip. Revisé y completé la sección de Conclusiones, Bibliografía y Anexos del informe. Además, participé en la revisión del rendimiento individual de cada miembro desde la perspectiva del líder, aportando una evaluación objetiva y centrada en el trabajo conjunto. Lideré el cierre documental del proyecto desde un enfoque integrador.<br> | - Las entrevistas reforzaron mi capacidad para adaptar el lenguaje técnico a usuarios no especialistas y sintetizar ideas en tiempo real.<br>- Aprendí a exponer conceptos visuales (mock-ups, wireframes) de forma clara y a recoger feedback inmediato para iterar rápido.<br>- Desarrollé confianza para dirigir conversaciones guiadas y obtener información crítica manteniendo la atención de la audiencia.<br>- Perfeccioné mi habilidad de traducir datos en narrativas comprensibles para audiencias mixtas (técnicas y de negocio). |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | **Jhordi Luis Carranza Pérez – TB1:**<br>- Elaboré diagramas de flujo y tablas de requerimientos.<br>- Documenté historias de usuario y apuntes de las entrevistas.<br><br>**TP1:**<br>-Apoyé en la organización del documento, mejorando el Student Outcome, cuadros, imágenes y user stories. Contribuí a que la documentación refleja correctamente los objetivos comunes del equipo.<br><br>**TB2:**<br>-Facilité la organización del Sprint 3 desde una perspectiva técnica y colaborativa. Organicé el backlog priorizando metas comunes, y coordiné el cumplimiento de entregables mediante comunicación constante. Promueve la claridad en las tareas para que todos los miembros pudieran participar activamente. <br><br>**TF1:**<br>-Facilité la integración técnica de todos los componentes del proyecto, asegurando que la versión final del producto estuviera alineada con los requerimientos definidos. Establecí metas claras en la revisión de artefactos corregidos, y verifiqué que cumplieran estándares de calidad. Promoví un entorno técnico ordenado para el cierre del proyecto.<br><br>**João Otavio de Carvalho Saito – TB1:**<br>- Redacté el contenido textual de la landing page (mensajes de marketing y FAQ).<br>- Diseñé wireframes y mock-ups anotados en Figma.<br><br>**TP1:**<br>-Coordiné con el equipo para distribuir tareas técnicas y asegurar la entrega de cada funcionalidad en los plazos acordados. Fomenté un entorno de trabajo ordenado y enfocado.<br><br>**TB2:**<br>-(RETIRADO DEL CURSO)<br><br>**TF1:**<br>-(RETIRADO DEL CURSO)<br><br>**Esteban Valentino Alvarez Falen – TB1:**<br>- Construí tablas comparativas y mapas de empatía del usuario.<br>- Documenté los criterios de priorización para el backlog.<br><br>**TP1:**<br>-Aporté con herramientas visuales para definir mejor a los usuarios y escenarios. Mi trabajo ayudó a alinear la planificación del desarrollo con las verdaderas necesidades detectadas.<br><br>**TB2:**<br>-Estructuré la documentación de ejecución y despliegue para asegurar que todos los integrantes tuvieran acceso a los avances del proyecto. Aporté herramientas para el seguimiento de metas y tareas, y propicié un entorno organizado que permitió cumplir los objetivos definidos de forma coordinada.<br><br>**TF1:**<br>-Organizé la información para la presentación final en Keynote, resumiendo el trabajo colaborativo del equipo y estableciendo una narrativa clara. Aporté al cierre del informe asegurando que se cumplan las metas de contenido y forma, en especial en la parte de los Student Outcomes. Coordiné entregables con enfoque en la planificación y cumplimiento de objetivos comunes.<br><br>**Stephano Renan Valdivia Quispe – TB1:**<br>- Redacté la sección de documentación funcional y mapas de navegación.<br>- Consolidé notas de entrevistas en un reporte de hallazgos.<br><br>**TP1:**<br>-Coordiné con el equipo para integrar los resultados de las entrevistas al segundo segmento. Mi participación me ayudó a tomar decisiones más inclusivas y realistas.<br><br>**TB2:**<br>-Diseñó instrumentos de validación accesibles y efectivos que permitieron recoger información útil del usuario. Coordiné el registro de entrevistas y evaluaciones heurísticas, fomentando un entorno de inclusión donde las voces del usuario fueron integradas en la planificación y mejoras del producto.<br><br>**TF1:**<br>-Gestioné el empaquetado y envío del archivo .zip final, validando que todos los elementos estuvieran presentes y actualizados. Participé en la revisión del Project Report Collaboration Insights y aseguré que las conclusiones reflejen los logros colectivos. Mi trabajo ayudó a cumplir con los requisitos de forma colaborativa y ordenada, en un entorno inclusivo.<br><br>                                                                                                                 | - La redacción estructurada me permitió transmitir información técnica de manera accesible al docente y al equipo de diseño.<br>- Aprendí a comunicar propuestas de valor y guías visuales que cualquier colaborador pueda entender sin asistencia oral.<br>- El uso de plantillas estandarizadas hizo más eficiente el intercambio de información y la toma de decisiones.<br>- Mejoré la coherencia y el nivel de detalle en documentos dirigidos tanto a profesores como a compañeros de distintas áreas.                                  |
 
 ### 1.1.1. Descripción de la Startup
 
@@ -1687,6 +1687,191 @@ Durante este Sprint se realizó lo siguiente:
 Este Sprint representó un avance técnico clave. Se superaron retos como la instalación de herramientas, configuración del entorno en Rider, problemas con versiones de SDK, y conexión con bases de datos.
 
 La colaboración fue continua, con consultas y apoyo en la configuración de migraciones, diseño de entidades y controladores. Se avanzó con autonomía, y se documentó el proceso para futuras iteraciones.
+### 5.3 Validation Interviews
+##### 5.3.1. Diseño de Entrevistas
+##### **Elementos de Validación**
 
+###### **Landing Page y Aplicación Qahwa (Productores):**  
+   Se validó la claridad de la información en la landing page, la facilidad para registrar producción, publicar lotes de café y visualizar métricas de cultivo.
 
+###### * **Aplicación Qahwa (Compradores):**  
+   Se validó el proceso de búsqueda de productores, la visualización de ofertas de café, el envío de pedidos y la consulta de historial y trazabilidad.
+
+---
+
+#### **User Flows a Validar**
+
+##### **Para el Segmento Productores de Café:**
+
+1. **Registro y Creación de Perfil del Productor:**  
+    Evaluar la facilidad para completar datos personales, historia, ubicación y métodos de cultivo.
+
+2. **Registro de Actividades Productivas:**  
+    Validar cómo el productor puede registrar etapas como siembra, cosecha y procesamiento de café.
+
+3. **Publicación de Ofertas de Café:**  
+    Evaluar si el productor puede cargar correctamente información del lote, como cantidad, tipo de café, precio y certificaciones.
+
+4. **Gestión de Inventario y Pedidos:**  
+    Validar cómo el productor puede visualizar y administrar el stock disponible y los pedidos recibidos.
+
+5. **Visualización de Métricas e Historial de Producción:**  
+    Verificar la comprensión de los reportes visuales sobre calidad y rendimiento de su café.
+
+---
+
+##### **Para el Segmento Compradores de Café:**
+
+1. **Búsqueda y Filtrado de Ofertas:**  
+    Evaluar la capacidad del usuario para aplicar filtros por zona, tipo de café y certificación.
+
+2. **Visualización de Perfil del Productor:**  
+    Validar si la información mostrada (historia, ubicación, prácticas) brinda suficiente confianza y contexto para una compra.
+
+3. **Envío de Pedido y Negociación:**  
+    Verificar la claridad del proceso para realizar un pedido directo al productor y proponer precios o condiciones.
+
+4. **Gestión de Pedidos y Trazabilidad:**  
+    Evaluar si el comprador puede rastrear fácilmente el origen y estado de sus pedidos anteriores.
+
+5. **Recepción y Valoración del Producto:**  
+    Comprobar si el sistema permite dejar comentarios y calificaciones sobre la experiencia de compra y calidad del café.
+
+---
+
+#### **Formato de Registro de la Entrevista**
+
+**Datos del Entrevistado:**
+
+* Nombre y apellidos
+
+* Edad
+
+* Rol: Productor o Comprador
+
+* Región de procedencia (para productores)
+
+* Dispositivo utilizado (smartphone, laptop, etc.)
+
+---
+
+#### **Preguntas para el Segmento Productores de Café**
+
+**Registro y Perfil**
+
+* ¿Fue sencillo registrar tu información personal y datos de la finca?
+
+* ¿La sección para contar tu historia como productor fue fácil de usar?
+
+* ¿Qué mejorarías en esta sección?
+
+**Registro de Producción**
+
+* ¿Lograste registrar cada etapa del proceso (siembra, cosecha, secado)?
+
+* ¿Te pareció intuitivo el cronograma de actividades agrícolas?
+
+* ¿Tuviste dificultades en completar la información?
+
+**Publicación de Café**
+
+* ¿Cómo fue tu experiencia al publicar un lote de café para la venta?
+
+* ¿La plataforma te guió adecuadamente para ingresar todos los datos?
+
+* ¿Sentiste que podrías mostrar bien la calidad de tu café?
+
+**Inventario y Pedidos**
+
+* ¿Pudiste visualizar y actualizar tu inventario fácilmente?
+
+* ¿La gestión de pedidos fue clara y ordenada?
+
+**Métricas e Historial**
+
+* ¿La visualización de indicadores como humedad o tamaño del grano te resultó comprensible?
+
+* ¿Crees que estos reportes te ayudarían a mejorar tus cultivos?
+
+---
+
+#### **Preguntas para el Segmento Compradores de Café**
+
+**Búsqueda y Filtrado**
+
+* ¿Fue fácil encontrar café según tus necesidades?
+
+* ¿Qué tan útiles fueron los filtros por origen, tipo o certificación?
+
+**Perfil del Productor**
+
+* ¿La información del productor te generó confianza para realizar la compra?
+
+* ¿Qué datos te hubiera gustado ver?
+
+**Pedido y Negociación**
+
+* ¿Pudiste realizar el pedido sin problemas?
+
+* ¿El sistema permite suficiente personalización en la compra?
+
+**Gestión y Seguimiento**
+
+* ¿Lograste ver claramente el estado de tus pedidos?
+
+* ¿Te pareció útil la trazabilidad del café?
+
+**Feedback**
+
+* ¿Pudiste dejar tu calificación o comentario sobre el café adquirido?
+
+* ¿Qué sugerencias tendrías para mejorar esta funcionalidad?
+##### 5.3.2. Registro de Entrevistas
+##### 5.3.3. Evaluaciones según heurísticas.
+### 5.4. Video About-the-Product.
+
+#### **Conclusiones**
+
+##### **Viabilidad del Proyecto**  
+ El proyecto Qahwa demostró ser viable tanto técnica como comercialmente. Los resultados de las entrevistas y validaciones reflejan una necesidad real de digitalización dentro del ecosistema cafetalero peruano, especialmente en el segmento de pequeños productores, quienes enfrentan retos en gestión, trazabilidad y comercialización de su producto.
+
+##### **Ajuste con el Usuario**  
+ Los hallazgos revelan que los productores estarían dispuestos a utilizar una solución digital si esta es simple, intuitiva y accesible desde sus dispositivos móviles. También se detectó una oportunidad clara para facilitar conexiones directas entre productores y compradores, eliminando intermediarios poco confiables y mejorando la transparencia del proceso comercial.
+
+##### **Validación de Supuestos e Hipótesis**  
+ Las hipótesis planteadas en el proceso Lean UX fueron validadas positivamente. Tanto productores como compradores consideran relevante contar con una plataforma que centralice información, permita registrar datos, realizar pedidos y visualizar métricas de trazabilidad. Además, se confirmó que las cooperativas y técnicos agrícolas pueden ser aliados estratégicos en la adopción de la tecnología.
+
+##### **Criterios de Éxito Contrastados**  
+ Los criterios definidos inicialmente (mejora en la trazabilidad, mayor control de inventario, conexión directa con compradores, etc.) coinciden con las necesidades expresadas en las entrevistas. Se evidenció interés genuino por parte de ambos segmentos en utilizar una plataforma que aborde estos puntos.
+
+##### **Desempeño Competitivo**  
+ El análisis competitivo mostró que Qahwa se diferencia por su enfoque accesible y adaptado al caficultor rural peruano. A diferencia de soluciones globales o empresariales como Agrovision o Digital Coffee Future, Qahwa se alinea mejor con las capacidades tecnológicas y las realidades del usuario local.
+
+#### **Recomendaciones**
+
+##### **1\. Priorizar el Diseño Centrado en el Usuario**  
+ La interfaz de la plataforma debe ser altamente intuitiva, visual y adaptable a usuarios con bajo nivel de alfabetización digital. Se recomienda emplear pictogramas, videos tutoriales y lenguaje sencillo en español o incluso en lenguas originarias.
+
+##### **2\. Alianzas Estratégicas para la Implementación**  
+ Es fundamental establecer alianzas con cooperativas, ONG y entidades del Estado (como Sierra y Selva Exportadora) para facilitar el acceso a la tecnología, brindar capacitaciones y generar confianza entre los usuarios rurales.
+
+##### **3\. Funcionalidades Prioritarias a Desarrollar**  
+ Incluir módulos que permitan:
+
+* Registrar etapas del cultivo y producción.
+
+* Publicar lotes de café disponibles con fotos, precios y certificaciones.
+
+* Establecer contacto directo y seguro con compradores.
+
+* Generar reportes simples y trazables para futuras negociaciones.
+
+##### **4\. Estrategia de Lanzamiento Escalonado**  
+ Iniciar con una versión piloto en la región de **Cajamarca**, aprovechando su organización cooperativa y volumen de producción. Posteriormente, escalar a otras regiones como San Martín o Junín.
+
+##### **5\. Foco en Capacitación Continua**  
+ Ofrecer acompañamiento técnico desde el primer uso de la aplicación. Un centro de aprendizaje dentro de la app y un sistema de soporte técnico contribuirán a disminuir el abandono de usuarios por frustración tecnológica.
+
+##### **6\. Retroalimentación Constante**  
+ Establecer un sistema de feedback rápido desde la app para capturar sugerencias, errores o mejoras percibidas por los usuarios. Esta retroalimentación debe ser clave en futuras iteraciones del producto.
 
