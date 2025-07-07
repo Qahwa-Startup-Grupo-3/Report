@@ -1873,5 +1873,5 @@ La colaboración fue continua, con consultas y apoyo en la configuración de mig
  Ofrecer acompañamiento técnico desde el primer uso de la aplicación. Un centro de aprendizaje dentro de la app y un sistema de soporte técnico contribuirán a disminuir el abandono de usuarios por frustración tecnológica.
 
 ##### **6\. Retroalimentación Constante**  
- Establecer un sistema de feedback rápido desde la app para capturar sugerencias, errores o mejoras percibidas por los usuarios. Esta retroalimentación debe ser clave en futuras iteraciones del producto.
+ Establecer un sistema de feedback rápido desde la app para capturar sugerencias, errores o mejoras percibidas por los usuarios. Esta retroalimentación debe ser clave en futuras iteraciones del producto
 
