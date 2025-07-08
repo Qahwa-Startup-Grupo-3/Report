@@ -18,7 +18,6 @@ Aplicaciones Web <br>
 
 | **Member**                      | **Code**   |
 | ------------------------------- | ---------- |
-| João Otavio de Carvalho Saito   | U202020107 |
 | Esteban Valentino Alvarez Falen | U202315628 |
 | Stephano Renan Valdivia Quispe  | U202311294 |
 | Jhordi Luis Carranza Pérez      | U20191E835 |
