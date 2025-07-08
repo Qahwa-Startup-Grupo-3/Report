@@ -71,15 +71,6 @@ Ser la plataforma digital líder en el fortalecimiento del café peruano a nivel
     </td>
   </tr>
   <tr>
-    <td><img src="img/joao.png" alt="João" width="150px"></td>
-    <td>
-      <strong>Nombres y apellidos:</strong> João Otavio de Carvalho Saito<br>
-      <strong>Código de estudiante:</strong> U202020107<br>
-      <strong>Carrera:</strong> Ing. de Software<br>
-      <strong>Descripción:</strong> Soy una persona dedicada, activa y determinada. Muchas veces me sobrecargo de cosas que hacer y termino descuidando los detalles. Tengo conocimientos en C++, Python, Unity y modelado 3D.
-    </td>
-  </tr>
-  <tr>
     <td><img src="img/valentino.jpg" alt="valentino" width="150px"></td>
     <td>
       <strong>Nombres y apellidos:</strong> Esteban Valentino Alvarez Falen<br>
