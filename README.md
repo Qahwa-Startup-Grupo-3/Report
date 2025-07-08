@@ -1677,6 +1677,78 @@ Durante este Sprint se realizó lo siguiente:
 Este Sprint representó un avance técnico clave. Se superaron retos como la instalación de herramientas, configuración del entorno en Rider, problemas con versiones de SDK, y conexión con bases de datos.
 
 La colaboración fue continua, con consultas y apoyo en la configuración de migraciones, diseño de entidades y controladores. Se avanzó con autonomía, y se documentó el proceso para futuras iteraciones.
+
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+
+Durante este sprint se priorizó la integración entre el **frontend (Vue 3 + PrimeVue)** y el backend funcional desarrollado en **ASP.NET Core**. El objetivo fue habilitar flujos completos (como autenticación, creación de pedidos y visualización de datos), así como aplicar mejoras visuales y funcionales basadas en las entrevistas realizadas a productores y compradores de café. Se definieron tareas específicas de conexión, validación, diseño de interfaz y pruebas de experiencia de usuario.
+
+#### 5.2.4.2. Aspect Leaders and Collaborators
+
+En este Sprint se asignaron responsables para la conexión entre capas, ajustes a nivel de lógica de negocio y rediseño visual basado en feedback. Se utilizaron herramientas como Vue, Axios, Swagger y Rider.
+
+#### 5.2.4.3. Sprint Backlog 4
+
+El objetivo fue conectar completamente el frontend con el backend real y aplicar mejoras según la retroalimentación obtenida.
+
+| User Story | Work-Item / Task                  | Id   | Title                                   | Description                                                      | Estimation (Hours) | Assigned To   | Status     |
+|------------|-----------------------------------|------|-----------------------------------------|------------------------------------------------------------------|--------------------|---------------|------------|
+| EP-015     | Conexión Vue ↔ API                | T009 | Consumo de endpoints con Axios          | Conectar componentes Vue con backend real usando Axios           | 6                  | Jhordi C.     | Done       |
+| EP-016     | Registro de pedidos desde frontend| T010 | Formulario de pedidos funcional         | Enviar datos de pedido y mostrar respuesta desde backend         | 5                  | Stephano V.   | Done       |
+| EP-017     | Visualización de producción       | T011 | Mostrar producción del usuario          | Obtener y mostrar datos de producción desde la API               | 4                  | Jhordi C.     | Done       |
+| EP-018     | Mejoras visuales por entrevistas  | T012 | Ajustar interfaz según retroalimentación| Rediseñar formularios y validaciones por feedback                | 4                  | Stephano V.   | Done       |
+
+#### 5.2.4.4. Development Evidence for Sprint Review
+
+Durante este Sprint se completó la conexión entre frontend y backend para múltiples flujos funcionales. Se registraron los siguientes commits relevantes:
+
+| Repository            | Branch | Commit Id | Commit Message                         | Commit Message Body                                         | Committed on |
+|-----------------------|--------|-----------|----------------------------------------|-------------------------------------------------------------|--------------|
+| frontend-Project      | TF1    | `ghi789`  | feat: conexión a backend vía Axios     | Implementación de consumo de API con manejo de errores      | 2025-07-06   |
+| frontend-Project      | TF1    | `jkl012`  | feat: formulario de pedidos funcional  | Se conecta formulario de pedidos a backend                  | 2025-07-06   |
+| frontend-Project      | TF1    | `mno345`  | chore: mejoras visuales y de flujo UX  | Ajustes de UI y navegación según entrevistas                | 2025-07-05   |
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+Durante la ejecución del sprint se validaron los flujos más importantes de la aplicación:
+
+- Registro y login conectados al backend.
+- Registro y visualización de pedidos desde la interfaz.
+- Visualización de datos de producción e inventario del usuario.
+- Formularios conectados y validados (campos obligatorios, tipos de datos, etc.).
+- Retroalimentación visual adecuada en errores y confirmaciones.
+- Pruebas manuales de usuario exitosas (end-to-end).
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Se documentaron los principales endpoints RESTful utilizados durante el Sprint 4, disponibles en Swagger al ejecutar el backend:
+
+| Endpoint           | Acción HTTP | Descripción                           | Parámetros                      | Ejemplo de Response              | URL Documentación        |
+|--------------------|-------------|---------------------------------------|---------------------------------|----------------------------------|--------------------------|
+| /registro          | GET         | Lista todos los usuarios              | Ninguno                         | 200 OK con JSON de usuarios      | `/swagger/index.html`   |
+| /usuarios          | POST        | Crea un nuevo usuario                 | JSON con datos de usuario       | 201 Created con nuevo ID         | `/swagger/index.html`   |
+| /pedidos           | GET         | Lista pedidos del sistema             | Ninguno                         | 200 OK con lista de pedidos      | `/swagger/index.html`   |
+| /pedidos           | POST        | Registrar nuevo pedido                | JSON con detalles del pedido    | 201 Created con datos guardados  | `/swagger/index.html`   |
+| /produccion        | GET         | Visualiza producción del usuario      | Ninguno                         | 200 OK con lista de producción   | `/swagger/index.html`   |
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Durante este Sprint se desplegaron funcionalidades completas del sistema, integrando frontend y backend. Se documentaron las siguientes acciones:
+
+- Conexión de componentes Vue con servicios del backend usando Axios.
+- Verificación del flujo completo autenticado (login → registrar pedido → visualizar producción).
+- Ajustes en interfaz según sugerencias obtenidas en entrevistas.
+- Revisión técnica de todos los formularios funcionales conectados.
+- Despliegue local y pruebas manuales en entorno de desarrollo.
+- Versionado actualizado en la organización **Qahwa Startup - Grupo 3** en GitHub:
+  - [`frontend-Project`](https://github.com/Qahwa-Startup-Grupo-3/frontend-Project.git)
+  - [`backend-Project`](https://github.com/Qahwa-Startup-Grupo-3/back-end-Project.git)
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Este Sprint representó un hito clave para el proyecto, al lograr la integración real de ambos lados del sistema y recibir validación directa de usuarios. El equipo colaboró fluidamente en la conexión de capas, manejo de errores, depuración conjunta y ajustes de diseño. La comunicación entre frontend y backend se fortaleció, permitiendo resolver inconsistencias de forma ágil.
+
 ## 5.3 Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 ##### **Elementos de Validación**
